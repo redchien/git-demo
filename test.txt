@@ -1,2 +1,3 @@
 test.txt
 test 3 way merge in test.txt
+test 3 way from dev branch
