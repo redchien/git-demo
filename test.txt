@@ -1,1 +1,2 @@
 test.txt
+test 3 way merge in test.txt
