@@ -1,1 +1,2 @@
 conflict edit on github
+conflict edit on local editor
